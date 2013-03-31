@@ -7,4 +7,5 @@
 *.o
 *.d
 *.elf
+*.DS_Store
 widget-control
